@@ -2,7 +2,7 @@
 
 # Text Residual Motion Encoder for 3D Human Motion Generation
 
-![teaser_image](https://github.com/anonymousrave/anonymoys_trme/blob/main/motions.png)
+![teaser_image](https://github.com/anonymousrave/anonymous_trme/blob/main/motions.png)
 
 
 ## Table of Contents
